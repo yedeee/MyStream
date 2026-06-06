@@ -1,11 +1,9 @@
 {
-  "data": {
-    "type": "album",
-    "name": "album1",
-    "artist": "artist",
-    "released": "2026",
-    "cover": "cover.png"
-  },
+  "type": "album",
+  "name": "album1",
+  "artist": "artist",
+  "released": "2026",
+  "cover": "cover.png"
   "tracks": [
     { "title": "song1", "file": "song.mp3" },
     { "title": "song2", "file": "song2.mp3" }
